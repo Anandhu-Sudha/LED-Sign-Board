@@ -17,8 +17,8 @@ Each letter has red and white LEDs, each segments in a letter can be controlled 
 
 That's pretty much it. Some videos and pictures are below 
 
-![image alt](https://github.com/Anandhu-Sudha/LED-Sign-Board/blob/8179915b5b899abb86a5dfc2265c742b51625424/pictures/IMG20231221144901.jpg)
-![image alt](https://github.com/Anandhu-Sudha/LED-Sign-Board/blob/8179915b5b899abb86a5dfc2265c742b51625424/pictures/IMG20231221154832.jpg)
+<img src="https://github.com/Anandhu-Sudha/LED-Sign-Board/blob/8179915b5b899abb86a5dfc2265c742b51625424/pictures/IMG20231221144901.jpg)
+![image alt](https://github.com/Anandhu-Sudha/LED-Sign-Board/blob/8179915b5b899abb86a5dfc2265c742b51625424/pictures/IMG20231221154832.jpg" width="200" height="400" />
 ![image alt](https://github.com/Anandhu-Sudha/LED-Sign-Board/blob/8179915b5b899abb86a5dfc2265c742b51625424/pictures/IMG20231221163550.jpg)
 ![image alt](https://github.com/Anandhu-Sudha/LED-Sign-Board/blob/8179915b5b899abb86a5dfc2265c742b51625424/pictures/IMG20231221173601.jpg)
 ![image alt](https://github.com/Anandhu-Sudha/LED-Sign-Board/blob/8179915b5b899abb86a5dfc2265c742b51625424/pictures/IMG20231221192953.jpg)
