@@ -1,5 +1,5 @@
 # LED-Sign-Board
-LED Display board with chaser.
+LED Display board with chaser
 
 #throwback-December-2023
 
