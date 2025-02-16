@@ -17,11 +17,11 @@ Each letter has red and white LEDs, each segments in a letter can be controlled 
 
 That's pretty much it. Some videos and pictures are below 
 
-<img src="https://github.com/Anandhu-Sudha/LED-Sign-Board/blob/8179915b5b899abb86a5dfc2265c742b51625424/pictures/IMG20231221144901.jpg" width="200" height="400" />
-<img src="https://github.com/Anandhu-Sudha/LED-Sign-Board/blob/8179915b5b899abb86a5dfc2265c742b51625424/pictures/IMG20231221154832.jpg" width="200" height="400" />
-<img src="https://github.com/Anandhu-Sudha/LED-Sign-Board/blob/8179915b5b899abb86a5dfc2265c742b51625424/pictures/IMG20231221163550.jpg" width="200" height="400" />
-<img src="https://github.com/Anandhu-Sudha/LED-Sign-Board/blob/8179915b5b899abb86a5dfc2265c742b51625424/pictures/IMG20231221173601.jpg" width="800" height="400" />
-<img src="https://github.com/Anandhu-Sudha/LED-Sign-Board/blob/8179915b5b899abb86a5dfc2265c742b51625424/pictures/IMG20231221192953.jpg" width="200" height="400" />
+![image alt](https://github.com/Anandhu-Sudha/LED-Sign-Board/blob/8179915b5b899abb86a5dfc2265c742b51625424/pictures/IMG20231221144901.jpg)
+![image alt](https://github.com/Anandhu-Sudha/LED-Sign-Board/blob/8179915b5b899abb86a5dfc2265c742b51625424/pictures/IMG20231221154832.jpg)
+![image alt](https://github.com/Anandhu-Sudha/LED-Sign-Board/blob/8179915b5b899abb86a5dfc2265c742b51625424/pictures/IMG20231221163550.jpg)
+![image alt](https://github.com/Anandhu-Sudha/LED-Sign-Board/blob/8179915b5b899abb86a5dfc2265c742b51625424/pictures/IMG20231221173601.jpg)
+![image alt](https://github.com/Anandhu-Sudha/LED-Sign-Board/blob/8179915b5b899abb86a5dfc2265c742b51625424/pictures/IMG20231221192953.jpg)
 
 https://github.com/user-attachments/assets/203d4cd8-a8a6-4c9e-8b3d-9c8a9dff3e22
 
